@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap/static/css/main.beabed1e.css",
+    "main.js": "/react-bootstrap/static/js/main.2d383d3c.js",
+    "static/js/787.241534ed.chunk.js": "/react-bootstrap/static/js/787.241534ed.chunk.js",
+    "static/media/amikom.png": "/react-bootstrap/static/media/amikom.7b9a29c9707e05d5715b.png",
+    "index.html": "/react-bootstrap/index.html",
+    "main.beabed1e.css.map": "/react-bootstrap/static/css/main.beabed1e.css.map",
+    "main.2d383d3c.js.map": "/react-bootstrap/static/js/main.2d383d3c.js.map",
+    "787.241534ed.chunk.js.map": "/react-bootstrap/static/js/787.241534ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beabed1e.css",
+    "static/js/main.2d383d3c.js"
+  ]
+}
